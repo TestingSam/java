@@ -1,0 +1,20 @@
+{
+  "editor.tabSize": 4,
+  "editor.wordWarp": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "javascript": "html"
+  },
+  "terminal.integrated.shell.windows": "D:\\Git\\bin\\bash.exe",
+  "csharp.format.enable": false,
+  "gitlens.keymap": "alternate",
+  "gitlens.historyExplorer.enabled": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 0
+}
